@@ -7,14 +7,14 @@
 
 }
 @font-face {
-    font-family: spyxfamily;
+    font-family: pirates;
     src: url(1_Minecraft-Regular.otf);
 }
 *{
-    font-family: spyxfamily;
+    font-family: pirates;
 }
-.btn-spyxfamily{
-    background: #cc4a8f;
+.btn-pirates{
+    background: #221d1d;
     color: rgb(247, 247, 247);
     width: 25%;
     padding: .5rem 0;
@@ -26,12 +26,12 @@
     box-shadow: inset 3px 3px rgba(255, 255, 255, 0.5),
                 inset -3px -3px 0 rgba(0, 0, 0, 0.5);
 }
-.btn-spyxfamily:hover{
+.btn-spirates:hover{
     background: rgba(115, 107, 221, 1);
     color: yellow; /* สีเหลือง */
 }
 
-.text-spyxfamily{
+.text-pirates{
     background: #cc4a8f;
     color: rgb(247, 247, 247);
     width: 100%;
@@ -46,7 +46,7 @@
 }
 pre {
     white-space: pre-wrap;
-    font-family: 'spyxfamily'
+    font-family: 'pirates'
 }
 
 body {
